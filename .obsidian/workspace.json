@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "a51813a926b27abf",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a71cad7fb988c16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6dd28dc6f981ce9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/Git Commands.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git Commands"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d2f7227f46de6276",
+    "type": "split",
+    "children": [
+      {
+        "id": "52864eb2390c0c2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94a9655ad7f0ca17",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "73f357de50e2bb61",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "b62af50d0b33befb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "035ed6305de37c27",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5437b3de40c243b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c66268219315336",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Git/Git теория.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Git теория"
+            }
+          },
+          {
+            "id": "a504cc1b812f3811",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "markdown_cheatsheet.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from markdown_cheatsheet"
+            }
+          },
+          {
+            "id": "f28838ff5711ba67",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "73a91e61f7f0a42f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "markdown_cheatsheet.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of markdown_cheatsheet"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "a6dd28dc6f981ce9",
+  "lastOpenFiles": [
+    "Git/Git теория.md",
+    "Без названия.md",
+    "Git/Правило записи файлов в gitignore и доп. информация.md",
+    "Git/Git Commands.md",
+    "2026-04-16.md",
+    "Без названия 1.canvas",
+    "Без названия.canvas",
+    "Git/markdown_разметка_конспект.md",
+    "Правило записи файлов в gitignore.md",
+    "image/СмыслКомандыGitRevert.png",
+    "image/СмыслКомандыGitPull.png",
+    "image/ПринципРаботы.png",
+    "Pasted image 20260412204307.png",
+    "image",
+    "Git",
+    "Welcome.md"
+  ]
+}
